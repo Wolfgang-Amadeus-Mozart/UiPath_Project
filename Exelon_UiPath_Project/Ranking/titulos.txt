@@ -1,0 +1,51 @@
+sold_amount,Book_Title
+500 million copies sold,#1 – Don Quixote
+200 million copies sold,#2 – A Tale of Two Cities
+150 million copies sold,#3 – The Lord of the Rings
+142 million copies sold,#4 – The Little Prince
+107 million copies sold,#5 – Harry Potter and the Sorcerer’s Stone
+100 million copies sold,#6 – And Then There Were None
+100 million copies sold,#7 – The Dream of the Red Chamber
+100 million copies sold,#8 – The Hobbit
+100 million copies sold,#9 – She: A History of Adventure
+85 million copies sold,"#10 – The Lion, the Witch and the Wardrobe"
+80 million copies sold,#11 – The Da Vinci Code
+70 million copies sold,#12 – Think and Grow Rich
+65 million copies sold,#13 – Harry Potter and the Half-Blood Prince
+65 million copies sold,#14 – The Catcher in the Rye
+65 million copies sold,#15 – The Alchemist
+60 million copies sold,#16 – Harry Potter and the Chamber of Secrets
+55 million copies sold,#17 – Harry Potter and the Prisoner of Azkaban
+55 million copies sold,#18 – Harry Potter and the Goblet of Fire
+55 million copies sold,#19 – Harry Potter and the Order of the Phoenix
+50 million copies sold,#20 – Harry Potter and the Deathly Hallows
+50 million copies sold,#21 – One Hundred Years of Solitude
+50 million copies sold,#22 – Lolita
+50 million copies sold,#23 – Anne of Green Gables
+50 million copies sold,#24 – Charlotte’s Web
+50 million copies sold,#25 – Black Beauty
+450 million copies sold,#1 – Harry Potter series
+300 million copies sold,#2 – Goosebumps series
+300 million copies sold,#3 – Perry Mason series
+260 million copies sold,#4 – Berenstain Bears series
+250 million copies sold,#5 – Choose Your Own Adventure series
+250 million copies sold,#6 – Sweet Valley High
+200 million copies sold,#7 – Noddy series
+200 million copies sold,#8 – Nancy Drew series
+200 million copies sold,#9 – Thomas the Tank Engine series
+200 million copies sold,#10 – San-Antonio series
+200 million copies sold,#11 – Robert Langdon series
+172 million copies sold,#12 – The Baby-sitters Club
+150 million copies sold,#13 – Star Wars series
+150 million copies sold,#14 – Little Critter series
+150 million copies sold,#15 – Peter Rabbit
+130 million copies sold,#16 – Chicken Soup for the Soul series
+120 million copies sold,#17 – American Girl series
+120 million copies sold,#18 – The Chronicles of Narnia series
+120 million copies sold,#19 – Mr. Men
+120 million copies sold,#20 – The Twilight Saga
+120 million copies sold,#21 – Diary of a Wimpy Kid series
+110 million copies sold,#22 – Clifford the Big Red Dog series
+100 million copies sold,#23 – James Bond 007 series
+100 million copies sold,#24 – Martine
+100 million copies sold,#25 – Fifty Shades trilogy
