@@ -9,11 +9,10 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "creating_arrays_by_assign_activitie.xaml",
+      "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "array_of_int&Sequence_1",
-        "array_of_string&Sequence_1"
+        "ipv4_info&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
