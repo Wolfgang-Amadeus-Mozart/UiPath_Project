@@ -1,7 +1,7 @@
 {
-  "name": "Finding IPv4 accress from windows CMD",
-  "projectId": "5facf885-4b9d-425c-a15b-0b5c39c6f384",
-  "description": "This worksflow opens and find the ipv4 address from windows cmd.\r\ncopy it and past on a text file\r\n",
+  "name": "Executing_externally_located_batfile",
+  "projectId": "367a7cdf-f8b1-42ab-a949-e6d08c687e80",
+  "description": "This process runs a bat file that is no locally located",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.4]",
@@ -14,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.10.1.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "b0604a5c-050a-4b2d-9dfc-0df5b1160e0e",
+      "uniqueId": "9bf0df0d-09dc-49d8-a419-02832d535352",
       "input": [],
       "output": []
     }
