@@ -1,0 +1,1 @@
+curl https://raw.githubusercontent.com/Wolfgang-Amadeus-Mozart/UiPath_Project/master/Files/retrieve_ip.bat> retrieve_ip.bat
